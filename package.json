@@ -1,0 +1,25 @@
+{
+  "name": "plusmoa-gatherer",
+  "version": "1.0.0",
+  "description": "background crawler for plusmoa services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayJayDee/node-plusmoa-gatherer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayJayDee/node-plusmoa-gatherer/issues"
+  },
+  "homepage": "https://github.com/JayJayDee/node-plusmoa-gatherer#readme",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1"
+  }
+}
